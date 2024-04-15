@@ -1,0 +1,8 @@
+# for install
+streamlit 
+pandas 
+numpy 
+seaborn 
+matplotlib
+scipy
+rgb
